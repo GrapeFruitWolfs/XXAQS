@@ -1,5 +1,5 @@
 {
-  "clientId": "d87bcc39-1750-4ca0-ad54-f8d0efbb2735",
+  "clientId": "c9a9e60f-3c74-4a83-97d1-6d382dc96384",
   "redirectUri": "http://localhost",
   "base": "/Public",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
